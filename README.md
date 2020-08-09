@@ -1,16 +1,16 @@
-# mealsapp
+# HeartyMeals
 
-All recipes for delicious meals.
+All recipes for delicious meals. 
+Hey, This app displays mulitple meals which you can navigate thorugh different categories.
+You have a bottom bar through which you can see the categories screen and the favourites meals screen. (You can choose a meal as a favourite)
+It makes a lot more intresting, by adding filters which you can access through the hamburger icon. 
 
-## Getting Started
+# There are multiple topics of Flutter, that are used in this App. Like navigation,widget isolation,passing data with Stateful Widgets,etc.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Coding Challenge 2
+ 
+ This is part of my Coding challenge to improve my Skills at Flutter!
+ 
+ # Thanks!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
